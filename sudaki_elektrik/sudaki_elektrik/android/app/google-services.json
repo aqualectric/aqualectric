@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "553723850747",
+    "project_id": "sudaki-elektrik-deneme",
+    "storage_bucket": "sudaki-elektrik-deneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553723850747:android:e5bb44fcce38947940e55e",
+        "android_client_info": {
+          "package_name": "com.example.sudaki_elektrik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553723850747-gst7dnm5irrca0nrstkv4qj4jab9q990.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sudaki_elektrik",
+            "certificate_hash": "7d3b0fbd00f193f62df3498a4c81c8041a5c0e33"
+          }
+        },
+        {
+          "client_id": "553723850747-1ei31ee5nb67q3b3s2o6lnitu5hsdok1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgh2r-u9QV4dJ1TgNy5hcNQEssBLsFww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553723850747-1ei31ee5nb67q3b3s2o6lnitu5hsdok1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
